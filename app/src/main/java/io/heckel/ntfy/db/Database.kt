@@ -417,7 +417,7 @@ interface NotificationDao {
     @Query("SELECT * FROM notification")
     suspend fun list(): List<Notification>
 
-    // // show notifications in ascending order
+    // show notifications in ascending order
     @Query("SELECT * FROM notification WHERE subscriptionId = :subscriptionId AND deleted != 1 ORDER BY timestamp ASC")
     fun listFlow(subscriptionId: Long): Flow<List<Notification>>
 
