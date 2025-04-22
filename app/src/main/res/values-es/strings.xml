@@ -210,7 +210,7 @@
     <string name="settings_advanced_connection_protocol_entry_jsonhttp">JSON stream sobre HTTP</string>
     <string name="settings_advanced_connection_protocol_entry_ws">WebSockets</string>
     <string name="settings_about_version_title">Versión</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="settings_about_version_copied_to_clipboard_message">Copiado al portapapeles</string>
     <string name="user_dialog_title_add">Añadir usuario</string>
     <string name="user_dialog_title_edit">Editar usuario</string>

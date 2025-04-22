@@ -4,7 +4,7 @@
     <string name="settings_advanced_record_logs_title">Înregistrează jurnale</string>
     <string name="settings_advanced_export_logs_summary">Copiază jurnal în clipboard, sau uploadează pe nopaste.net (deținut de autorul ntfy). Numele gazdelor sau topicele pot fi cenzurate, notificările nu vor fi niciodată.</string>
     <string name="settings_advanced_export_logs_error_uploading">Nu s-au putut încărca jurnalele: %1$s</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="settings_advanced_connection_protocol_entry_ws">WebSockets</string>
     <string name="settings_about_version_copied_to_clipboard_message">Copiat în clipboard</string>
     <string name="detail_settings_notifications_instant_summary_on">Notificările sunt primite instantaneu. Necesită un serviciu în prim plan și consumă mai multă baterie.</string>

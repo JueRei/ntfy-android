@@ -252,7 +252,7 @@
     <string name="settings_advanced_connection_protocol_entry_ws">WebSockets</string>
     <string name="settings_about_header">À propos</string>
     <string name="settings_about_version_title">Version</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="user_dialog_title_add">Ajouter utilisateur</string>
     <string name="user_dialog_title_edit">Éditer utilisateur</string>
     <string name="user_dialog_base_url_hint">URL du service</string>

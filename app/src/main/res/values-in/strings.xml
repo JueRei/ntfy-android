@@ -294,7 +294,7 @@
     <string name="user_dialog_password_hint_add">Kata Sandi</string>
     <string name="user_dialog_button_delete">Hapus pengguna</string>
     <string name="user_dialog_password_hint_edit">Kata Sandi (tidak diubah jika ditinggalkan kosong)</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="user_dialog_username_hint">Nama Pengguna</string>
     <string name="user_dialog_button_add">Tambahkan pengguna</string>
     <string name="user_dialog_button_cancel">Batal</string>

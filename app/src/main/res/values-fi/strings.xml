@@ -313,7 +313,7 @@
     <string name="detail_test_message_error_too_large">Viestiä ei voi lähettää: Liite on liian suuri.</string>
     <string name="settings_notifications_priority_low">matala</string>
     <string name="channel_subscriber_notification_noinstant_text_one">Tilattu yhteen topikkiin</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="settings_notifications_auto_download_summary_always">Lataa automaattisesti liitteet</string>
     <string name="user_dialog_title_edit">Muokkaa käyttäjää</string>
     <string name="settings_backup_restore_restore_successful">Palautus onnistui</string>

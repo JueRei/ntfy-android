@@ -301,7 +301,7 @@
     <string name="settings_advanced_connection_protocol_summary_ws">웹소켓을 사용해 서버에 연결합니다. 권장되는 방식이지만 서버 프록시에 추가 설정이 필요할 수 있습니다.</string>
     <string name="settings_advanced_clear_logs_summary">기존 로그를 모두 지우고 새로 시작</string>
     <string name="settings_about_version_title">버전</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="detail_settings_notifications_instant_summary_on">알림이 즉시 전달됩니다. 서비스가 항시 실행되어야 하며 배터리 소모가 많습니다.</string>
     <string name="detail_settings_notifications_instant_summary_off">알림이 Firebase를 통해 전달됩니다. 약간의 지연이 발생할 수 있으나 배터리 소모가 적습니다.</string>
     <string name="detail_settings_appearance_icon_set_title">구독 아이콘</string>

@@ -270,7 +270,7 @@
     <string name="settings_advanced_export_logs_uploading">A enviar registos …</string>
     <string name="settings_advanced_export_logs_copied_url">Registos enviados e URL copiado</string>
     <string name="settings_advanced_connection_protocol_summary_jsonhttp">Utilizar uma \"stream\" de JSON através de HTTP para se ligar ao servidor. Este método foi bem testado na pratica, mas pode consumir mais bateria.</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="detail_settings_notifications_instant_summary_off">As notificações são entregues utilizando o Firebase. A entrega pode atrasar, mas consome menos bateria.</string>
     <string name="detail_settings_appearance_header">Aparência</string>
     <string name="detail_settings_appearance_icon_set_title">Ícone de subscrição</string>

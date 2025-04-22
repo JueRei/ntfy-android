@@ -225,7 +225,7 @@
     <string name="settings_about_version_copied_to_clipboard_message">Skopírované do schránky</string>
     <string name="detail_settings_notifications_open_channels_summary">Vypnutie funkcie Nerušiť (DND), zvuky atď.</string>
     <string name="settings_about_version_title">Verzia</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="detail_settings_notifications_instant_title">Okamžité doručenie</string>
     <string name="detail_settings_notifications_instant_summary_on">Oznámenia sa doručujú okamžite. Vyžaduje službu na popredí a spotrebúva viac batérie.</string>
     <string name="detail_settings_notifications_instant_summary_off">Upozornenia sa doručujú pomocou služby Firebase. Doručenie sa môže oneskoriť, ale spotrebuje menej batérie.</string>

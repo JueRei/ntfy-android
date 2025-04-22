@@ -189,7 +189,7 @@
     <string name="settings_advanced_connection_protocol_entry_ws">Web Sockets</string>
     <string name="settings_about_header">Sobre</string>
     <string name="settings_about_version_title">Versão</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="settings_about_version_copied_to_clipboard_message">Copiado para a área de transferência</string>
     <string name="user_dialog_title_add">Adicionar usuário</string>
     <string name="user_dialog_title_edit">Editar usuário</string>

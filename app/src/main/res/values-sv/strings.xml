@@ -265,7 +265,7 @@
     <string name="settings_advanced_connection_protocol_entry_jsonhttp">JSON stream över HTTP</string>
     <string name="detail_settings_notifications_instant_summary_on">Notifieringarna levereras direkt. Kräver att appen aktivt körs vilket kräver mer batteri.</string>
     <string name="settings_about_version_title">Version</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="settings_about_version_copied_to_clipboard_message">Kopierad till urklipp</string>
     <string name="detail_settings_appearance_header">Utseende</string>
     <string name="detail_settings_notifications_instant_title">Omedelbar leverans</string>

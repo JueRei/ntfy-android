@@ -181,7 +181,7 @@
     <string name="detail_item_cannot_open">Ek açılamıyor: %1$s</string>
     <string name="settings_about_header">Hakkında</string>
     <string name="settings_about_version_title">Sürüm</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="settings_about_version_copied_to_clipboard_message">Panoya kopyalandı</string>
     <string name="user_dialog_title_add">Kullanıcı ekle</string>
     <string name="user_dialog_title_edit">Kullanıcıyı düzenle</string>

@@ -227,7 +227,7 @@
     <string name="settings_advanced_connection_protocol_entry_ws">WebSocketlar</string>
     <string name="settings_about_header">Haqida</string>
     <string name="settings_about_version_title">Talqin</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="settings_about_version_copied_to_clipboard_message">Nusxalandi</string>
     <string name="detail_settings_notifications_instant_title">Darhol yuborish</string>
     <string name="detail_settings_notifications_instant_summary_on">Bildirishnomalar darhol yetkaziladi. Oldindan xizmat ko‘rsatishni talab qiladi va ko‘proq batareya sarflaydi.</string>

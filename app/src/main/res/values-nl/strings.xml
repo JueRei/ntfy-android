@@ -81,7 +81,7 @@
     <string name="settings_advanced_connection_protocol_entry_jsonhttp">JSON stream via HTTP</string>
     <string name="user_dialog_button_add">Gebruiker toevoegen</string>
     <string name="user_dialog_password_hint_add">Wachtwoord</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="settings_advanced_export_logs_error_uploading">Kon logs niet uploaden: %1$s</string>
     <string name="user_dialog_title_add">Gebruiker toevoegen</string>
     <string name="settings_advanced_export_logs_uploading">Log uploaden …</string>

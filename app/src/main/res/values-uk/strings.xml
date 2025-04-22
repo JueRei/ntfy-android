@@ -313,7 +313,7 @@
     <string name="settings_advanced_connection_protocol_entry_ws">WebSockets</string>
     <string name="settings_about_header">Про</string>
     <string name="settings_about_version_title">Версія</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="settings_about_version_copied_to_clipboard_message">Скопійовано в буфер обміну</string>
     <string name="detail_settings_notifications_instant_title">Миттєва доставка</string>
     <string name="detail_settings_appearance_header">Зовнішній вигляд</string>

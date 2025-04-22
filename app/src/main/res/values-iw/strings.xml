@@ -278,7 +278,7 @@
     <string name="settings_advanced_connection_protocol_entry_ws">WebSockets‎</string>
     <string name="settings_advanced_connection_protocol_entry_jsonhttp">תזרים JSON על גבי HTTP</string>
     <string name="settings_about_header">על אודות</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="detail_settings_appearance_icon_remove_title">סמל מינוי (נגיעה להסרה)</string>
     <string name="detail_settings_appearance_icon_error_saving">לא ניתן לשמור סמל: %1$s</string>
     <string name="detail_settings_appearance_display_name_title">שם תצוגה</string>

@@ -265,7 +265,7 @@
     <string name="settings_advanced_connection_protocol_summary_jsonhttp">Usa un flux JSON a través d\'HTTP per tal de connectar-te al servidor. Aquest mètode és robust, però pot consumir molta bateria.</string>
     <string name="settings_about_version_title">Versió</string>
     <string name="settings_advanced_connection_protocol_summary_ws">Usa WebSockets per connectar al servidor. Aquest és el mètode recomanat, però pot necessitar configuració addicional al teu proxy.</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="detail_settings_notifications_instant_title">Entrega instantània</string>
     <string name="detail_settings_notifications_instant_summary_on">Les notificacions s\'entreguen instantàniament. Requereix d\'un servei en primer pla i consumeix molta bateria.</string>
     <string name="detail_settings_notifications_instant_summary_off">Les notificacions s\'entreguen usant FireBase. L\'entrega es pot retardar, però consumeix menys bateria.</string>

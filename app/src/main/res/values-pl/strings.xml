@@ -313,7 +313,7 @@
     <string name="settings_advanced_connection_protocol_title">Protokół połączenia</string>
     <string name="settings_advanced_connection_protocol_entry_jsonhttp">Strumień JSON przez HTTP</string>
     <string name="settings_about_version_title">Wersja</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="settings_about_version_copied_to_clipboard_message">Skopiowano do schowka</string>
     <string name="detail_settings_notifications_instant_summary_on">Powiadomienia są dostarczane natychmiastowo. Wymaga usługi pierwszego planu i zużywa więcej baterii.</string>
     <string name="detail_settings_appearance_header">Wygląd</string>

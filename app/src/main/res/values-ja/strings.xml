@@ -271,7 +271,7 @@
     <string name="settings_advanced_export_logs_scrub_dialog_empty">トピック名/ホスト名は編集されていません。ひとつも購読していませんか？</string>
     <string name="settings_advanced_connection_protocol_summary_ws">サーバーへの接続にWebSocketsを使用します。推奨されるメソッドですが、プロキシに追加設定を必要とします。</string>
     <string name="settings_about_header">About</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="user_dialog_title_edit">ユーザーを編集</string>
     <string name="user_dialog_password_hint_edit">パスワード (空欄の場合は変更されません)</string>
     <string name="settings_advanced_clear_logs_title">ログをクリア</string>

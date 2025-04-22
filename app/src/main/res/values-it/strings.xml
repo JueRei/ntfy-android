@@ -278,7 +278,7 @@
     <string name="settings_advanced_record_logs_summary_disabled">Attiva logging per condividere file di log in seguito per diagnosticare problemi.</string>
     <string name="settings_advanced_export_logs_entry_copy_scrubbed">Copia negli appunti (censurato)</string>
     <string name="settings_about_version_title">Versione</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="settings_advanced_export_logs_title">Copia/upload file di log</string>
     <string name="settings_advanced_export_logs_entry_copy_original">Copia negli appunti</string>
     <string name="settings_advanced_export_logs_entry_upload_scrubbed">Carica e copia link (censurato)</string>

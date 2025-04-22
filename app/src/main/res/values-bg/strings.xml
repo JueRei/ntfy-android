@@ -206,7 +206,7 @@
     <string name="user_dialog_username_hint">Потребител</string>
     <string name="user_dialog_title_edit">Промяна на потребител</string>
     <string name="user_dialog_title_add">Добавяне на потребител</string>
-    <string name="settings_about_version_format">ntfy %1$s (%2$s)</string>
+    <string name="settings_about_version_format">ntfyasc (Ascending) %1$s (%2$s)</string>
     <string name="user_dialog_description_edit">Можете да променяте избрания потребител или да го премахнете.</string>
     <string name="settings_about_version_title">Издание</string>
     <string name="settings_about_header">Относно</string>
